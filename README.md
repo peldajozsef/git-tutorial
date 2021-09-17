@@ -1,4 +1,4 @@
 # Szuper blogmotor projekt
 
 ## Leírás
-Ez egy Jaav nyelven íródott prjkt amit ergonómiára és könnyű használhatóságra terveztek.
+Ez egy Java nyelven íródott projkt amit ergonómiára és könnyű használhatóságra terveztek.
