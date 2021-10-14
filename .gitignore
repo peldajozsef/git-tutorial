@@ -4,3 +4,4 @@ target/
 # Rejtett fájlok
 .*
 !.gitignore
+*.iml
