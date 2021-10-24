@@ -8,7 +8,7 @@ import hu.bearmaster.tutorial.service.HelloService;
 public class App {
 
     public static void main(String[] args) {
-        String name = args.length == 1 ? args[0] : "world";
+        String name = args.length > 0 ? String.join(" ", args) : "world";
         System.out.println(HelloService.sayHello(name));
     }
 }
