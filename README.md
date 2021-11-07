@@ -13,3 +13,5 @@ mvn archetype:generate -DgroupId=hu.bearmaster.tutorial -DartifactId=git-tutoria
 (Most csak beírtam ide, hogy legyen valami)
 
 ### Ez már egy távoli változtatás volt!!!
+
+Ez a commit egy fast-forward merge része lesz. (feladat1)
