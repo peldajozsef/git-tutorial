@@ -17,3 +17,8 @@ mvn archetype:generate -DgroupId=hu.bearmaster.tutorial -DartifactId=git-tutoria
 *Ez már egy távoli változtatás volt!*
 
 Ez a commit egy fast-forward merge része lesz. (feladat1)
+
+## Rendszerkövetelmények
+* Telepített Java
+* Proci meg memória jó ha van
+* stb...
