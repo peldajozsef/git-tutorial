@@ -7,6 +7,7 @@ Ez egy Java nyelven íródott projekt amit ergonómiára és könnyű használha
 * Maven
 * Java JDK 16
 * Three-way merge
+* Ez itt egy idegen változtatás
 
 ## Magic
 mvn archetype:generate -DgroupId=hu.bearmaster.tutorial -DartifactId=git-tutorial -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false -DoutputDirectory=../
